@@ -23,13 +23,15 @@ Good Understanding of ITIL process framework.
 ## Skills
 - Java
 - AWS
+- DeVops
 - Linux
 - SQL
 - PostgreSQL
 - MongoDB
 - Kibana
 - Promethues
-- Grafana 
+- Grafana
+- Shell Scripting 
 - Nagios 
 - Git & GitHub
 - Postman API
@@ -77,6 +79,7 @@ Good Understanding of ITIL process framework.
 - PostgreSQL
 - MongoDB
 - ServiceNow
+- Jira
 - AWS Cloud
 - Java 
 
